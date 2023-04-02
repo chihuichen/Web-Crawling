@@ -1,10 +1,6 @@
 # Overview
-In this project I will practice inheritance, graph search, and web scraping.
-
-scrape.py will have the following:
-
-GraphSearcher (a class)\
-MatrixSearcher (a class)\
-FileSearcher (a class)\
-WebSearcher (a class)\
-reveal_secrets (a function)
+In this project I will practice inheritance, graph search, and web scraping.\
+Part 1: Base Class GraphSearcher and DFS on Matrices (MatrixSearcher)\
+Part 2: BFS on Matrix (MatrixSearcher) and Files (FileSearcher )\
+Part 3: Web Crawling (WebSearcher)\
+Part 4: reveal_secrets function
